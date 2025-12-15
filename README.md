@@ -113,7 +113,7 @@ temple.html
 ```
 ## OUTPUT
 
-![alt text](<map/mapapp/static/Screenshot 2025-12-15 220642.png>)
+
 
 ![alt text](<map/mapapp/static/Screenshot 2025-12-15 222155.png>)
 ![alt text](<map/mapapp/static/Screenshot 2025-12-15 222203.png>)
